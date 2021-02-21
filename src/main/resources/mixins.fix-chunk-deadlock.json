@@ -1,0 +1,10 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.fix-chunk-deadlock.refmap.json",
+    "package": "rmc.mixins.fix_chunk_deadlock.actual",
+    "mixins": [
+        "ChunkExecutorMixin",
+        "ServerChunkProviderMixin",
+        "ThreadTaskExecutorMixin"
+    ]
+}
